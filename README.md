@@ -1,0 +1,1 @@
+Project for predicting and detecting seizures from EEG using machine learning for my MS thesis. Read the full report here: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5L2LJLwAAAAJ&citation_for_view=5L2LJLwAAAAJ:u5HHmVD_uO8C
